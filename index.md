@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/shiwee/yourock.github.io/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### 第一个页面 [new day](https://raw.githubusercontent.com/shiwee/yourock/master/hello.md)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -11,7 +13,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# 第一个页面 [new day](https://raw.githubusercontent.com/shiwee/yourock/master/hello.md)
+
 
 # Header 1
 ## Header 2
